@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Matriz 10/30 - Unidade Varginha</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 40px auto; padding: 20px; background-color: #f0f2f5; }
+        .card { background: white; padding: 30px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); border-top: 5px solid #0056b3; }
+        h1 { color: #0056b3; border-bottom: 2px solid #eee; padding-bottom: 10px; }
+        .data-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-top: 20px; }
+        .data-item { background: #f8f9fa; padding: 15px; border-radius: 8px; border-left: 4px solid #0056b3; }
+        .label { font-size: 0.9em; color: #666; font-weight: bold; }
+        .value { font-size: 1.2em; color: #1a1a1a; display: block; margin-top: 5px; }
+        .footer { margin-top: 30px; font-size: 0.8em; color: #777; text-align: center; }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1>Validação Técnica: Matriz 10/30</h1>
+        <p>Relatório de Convergência Matemática e Estabilização de Massa.</p>
+        
+        <div class="data-grid">
+            <div class="data-item"><span class="label">Convergência</span><span class="value">99,858%</span></div>
+            <div class="data-item"><span class="label">Potência</span><span class="value">1.104,73 kW</span></div>
+            <div class="data-item"><span class="label">Frequência</span><span class="value">333 Hz</span></div>
+            <div class="data-item"><span class="label">Carga Brito V1</span><span class="value">12.500 kg</span></div>
+        </div>
+
+        <div class="footer">
+            Selo Temporal: 17 de Março de 2026<br>
+            Unidade Varginha - Josiano de Brito | Pesquisador Independente
+        </div>
+    </div>
+</body>
+</html>
