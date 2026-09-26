@@ -54,6 +54,32 @@ Erro numérico relativo = 0%
 
 A correspondência numérica normalizada é exata: **196 = 196**, com diferença numérica de **0%** na regra de normalização acima. Este resultado documenta uma comparação numérica entre a fundação interna da Matriz 10 e um valor arredondado publicado pela NASA/JPL. Não iguala frequência a velocidade, não substitui unidades físicas e não constitui, isoladamente, validação causal do modelo.
 
+## Evidência experimental pública
+
+### Registro audiovisual
+
+- **Título:** Brito V1 / Matriz 10 — Registro Público de Continuidade R10/W10 — 17/09/2026
+- **Arquivo original:** `BRITO_V1_R10_W10_REGISTRO_PUBLICO_2026-09-17.mp4`
+- **Data:** 17 de setembro de 2026
+- **Duração:** 55,78 segundos
+- **Formato:** MP4, proporção 16:9
+- **Checkpoint:** R10/W10
+- **Versão técnica referenciada:** `BRITO_R10_W10_MATRIZ10_A1_A10`
+- **SHA-256 do vídeo:** `59f5dc36f8b1cb0cf3ca4d631ae06b8ba30dacd224eca78c2b84074334950b0a`
+
+O registro audiovisual pode ser acessado pela apresentação pública oficial do projeto. Ele documenta autoria, continuidade técnica e estado experimental, sem antecipar uma conclusão de propulsão ou alteração gravitacional.
+
+### Integridade documental associada
+
+- **Documento:** `BRITO_V1_Anexo_Continuidade_R10_W10_e_Roteiro_Video_2026-09-17.docx`
+- **SHA-256:** `6cd3ba06abc0aebeadf31262b7e5293bcd07db872a76076ee9a707051115f25e`
+
+### Bancada e instrumentação divulgáveis
+
+A plataforma experimental utiliza **ESP32**, dois canais temporizados de atuação, aquisição por **HX711**, telemetria, interface local, ciclo temporizado de **20 segundos** e parada automática. O lote documental associado registra **15 atuações consecutivas**.
+
+Esse registro demonstra a existência e a operação documentada da plataforma de bancada, da aquisição e da telemetria. Não é apresentado como certificação de produto nem como validação científica independente de propulsão, redução de massa ou alteração gravitacional.
+
 ## Registro independente
 
 - **Zenodo DOI:** [10.5281/zenodo.18473422](https://doi.org/10.5281/zenodo.18473422)
