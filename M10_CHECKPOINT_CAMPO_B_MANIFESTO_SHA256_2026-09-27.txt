@@ -1,0 +1,51 @@
+BRITO V1 — MATRIZ 10
+MANIFESTO DE INTEGRIDADE SHA-256 — CAMPO B
+Data: 27/09/2026
+
+1. FINALIDADE
+
+Este manifesto registra dois códigos SHA-256 distintos e preserva a separação
+entre a prova de anterioridade já existente e o novo checkpoint matemático do
+Campo B.
+
+Os códigos não são intercambiáveis e não devem ser apresentados como se
+identificassem o mesmo arquivo ou o mesmo momento documental.
+
+2. REFERÊNCIA DE ANTERIORIDADE
+
+Código SHA-256 exibido no Certificado de Anterioridade fornecido pelo titular:
+
+64c500b38dfc430847b7bf519a1020d4e7af73b8b1a3189f379bdcb12575ff0
+
+Função: referência ao registro/certificado anterior apresentado por
+Josiano de Brito.
+
+3. CHECKPOINT CONGELADO DO CAMPO B
+
+Arquivo protegido:
+M10_CHECKPOINT_CAMPO_B_FINAL_CONGELADO_2026-09-27.txt
+
+Código SHA-256 verificado sobre os bytes exatos do arquivo:
+
+a82ba5e8b0f457bd014f528521b43cdcae99911385de5846a58a6de45ebc7d44
+
+Função: identificação criptográfica do checkpoint congelado que contém o
+fechamento B, h, C_B, a identidade C_B + h^2 = 1, a parametrização angular,
+a decomposição conservativa normalizada e a forma candidata do Campo B,
+mantendo gamma_B e U_g como grandezas ainda não determinadas fisicamente.
+
+4. REGRA DE PRESERVAÇÃO
+
+O checkpoint protegido deve permanecer sem alteração. Qualquer mudança em
+seus bytes produzirá outro SHA-256 e deixará de corresponder ao código
+a82ba5e8b0f457bd014f528521b43cdcae99911385de5846a58a6de45ebc7d44.
+
+Este manifesto é um arquivo separado. Seu conteúdo não altera, substitui,
+recalcula nem incorpora bytes ao checkpoint congelado.
+
+5. TITULARIDADE DECLARADA
+
+Projeto: Brito V1 / Matriz 10
+Titular e autor declarado: Josiano de Brito
+
+FIM DO MANIFESTO
