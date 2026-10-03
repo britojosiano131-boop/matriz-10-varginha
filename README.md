@@ -4,7 +4,9 @@ Registro público de continuidade da pesquisa independente desenvolvida por **Jo
 
 ## Site público oficial
 
-[Brito V1 / Matriz 10 — Registro Público](https://britov1-matriz10-registro.higgsfield.app/)## Perfil público do autor
+[Brito V1 / Matriz 10 — Registro Público](https://britov1-matriz10-registro.higgsfield.app/)
+
+## Perfil público do autor
 
 **Josiano de Brito** é pesquisador independente e desenvolvedor do projeto **Brito V1 / Matriz 10**, em Varginha, Minas Gerais, Brasil.
 
