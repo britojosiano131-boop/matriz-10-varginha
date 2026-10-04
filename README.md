@@ -1,4 +1,4 @@
-# Brito V1 / Matriz 10
+# Brito V1 / Matriz 10 — Josiano de Brito
 
 Registro público de continuidade da pesquisa independente desenvolvida por **Josiano de Brito**, em Varginha, Minas Gerais, Brasil.
 
